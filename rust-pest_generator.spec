@@ -5,7 +5,7 @@
 %global crate pest_generator
 
 Name:           rust-%{crate}
-Version:        2.1.1
+Version:        2.8.8
 Release:        1%{?dist}
 Summary:        Pest code generator
 
